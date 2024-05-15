@@ -153,11 +153,11 @@ footer{
 }
 .footer-nav a{
     font-size: 160;
-    color: darkslategrey;
+    color: pink;
     font-weight: 300;
 }
 .footer-nav a:hover{
-    color: darkslategrey;
+    color: pink;
 }
 .social{
     text-align: center;
