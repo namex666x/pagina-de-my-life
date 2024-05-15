@@ -149,15 +149,15 @@ footer{
     padding: 4% 4% 2% 0;
 }
 .footer-nav{
-    text-align: left;
+    text-align: right;
 }
 .footer-nav a{
     font-size: 160;
-    color: pink;
+    color: darkslategrey;
     font-weight: 300;
 }
 .footer-nav a:hover{
-    color: pink;
+    color: darkslategrey;
 }
 .social{
     text-align: center;
